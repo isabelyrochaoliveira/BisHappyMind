@@ -8,17 +8,14 @@ O BisHappyMind é uma aplicação móvel que oferece recursos e atividades para 
 
 ## Funcionalidades
 
-- Exercícios de respiração guiada
-- Diário de humor
-- Meditações guiadas
-- Recursos educacionais sobre saúde mental
+- Monitoramento do batimento cardiáco
+- Oferece ajuda (musicoterapia ou realidade virtual) quando é detectado uma crise de ansiedade.
 
 ## Tecnologias Utilizadas
 
-- **Frontend**: React Native
-- **Backend**: Firebase
-- **Linguagem**: JavaScript
-- **Gerenciamento de Estado**: Redux
+- React Native
+- Spring Boot
+- Java
 
 ## Instalação
 
