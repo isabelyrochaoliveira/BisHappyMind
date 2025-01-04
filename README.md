@@ -3,8 +3,9 @@ Aplicação móvel que oferece recursos e atividades para ajudar adolescentes a 
 
 ## Funcionalidades
 
-- Monitoramento do batimento cardiáco
-- Oferece ajuda (musicoterapia ou realidade virtual) quando é detectado uma crise de ansiedade.
+- **Monitoramento do Batimento Cardíaco:** Utiliza sensores para acompanhar em tempo real os batimentos cardíacos do usuário, identificando possíveis irregularidades associadas à ansiedade.
+
+- **Intervenções Personalizadas:** Oferece opções de musicoterapia ou realidade virtual adaptadas às preferências do usuário quando uma crise de ansiedade é detectada.
 
 ## Tecnologias Utilizadas
 
