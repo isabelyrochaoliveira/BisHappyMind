@@ -25,3 +25,12 @@ O BisHappyMind é uma aplicação móvel que oferece recursos e atividades para 
 1. Clone este repositório:
    ```bash
    git clone https://github.com/isabelyrochaoliveira/BisHappyMind.git
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd BisHappyMind
+3. Instale as dependências:
+   ```bash
+   npm install
+4. Inicie o aplicativo:
+   ````bash
+   npx expo start
